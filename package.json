@@ -60,7 +60,7 @@
     "last 2 versions",
     "not ie <= 8"
   ],
-  "main": "src/components/PicZoom.vue", 
+  "main": "src/components/PicZoom.vue",
   "repository": {
     "type": "git",
     "url": "https://github.com/826327700/vue-piczoom"
